@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 200">
+    <circle
+          cx="150"
+          cy="100"
+          r="90"
+          fill="white"
+        />
+    <text
+      x="150"
+      y="100"
+      text-anchor="middle"
+      alignment-baseline="central"
+      fill="brown">
+    Round
+    </text>
+  </svg>
